@@ -6,7 +6,7 @@ December 8, 2020
 
 **Motivation**  
 
-After the COVID-19 pandemic first hit in March 2020, the Canadian government unveiled numerous temporary social security and financial aid programs. The most high profile of which is the Canadian Emergency Response Benefit (CERB), which provides $2,000 a month for up to seven months for qualifying residents facing unemployment due to the pandemic. Although the program was formally ended in October it has since been replace by the Canadian Recovery Benefit (CRB), a nearly identical program extending benefits for six additional months. 
+After the COVID-19 pandemic first hit in March 2020, the Canadian government unveiled numerous temporary social security and financial aid programs. The most high profile of which is the Canadian Emergency Response Benefit (CERB), which provides $2,000 a month for up to seven months for qualifying residents facing unemployment due to the pandemic. Although the program was formally ended in October it has since been replaced by the Canadian Recovery Benefit (CRB), a nearly identical program extending benefits for six additional months. 
 
 24% of the entire Canadian population applied for CERB. With nearly one in four people receiving this benefit, this program has clearly been popular, yet, at the same time, it has its shortcomings, and there has been vocal concern from some members of the public and conservative lawmakers that this program might be subject to fraud. Since public opinion, or at least our perception of public opinion, is increasingly shaped by social media, I wanted to take a look at what kind of conversations about these programs are happening on Twitter. 
 
